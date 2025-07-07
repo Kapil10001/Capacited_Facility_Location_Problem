@@ -72,14 +72,6 @@ $$ \sum_{i} x_{ij} = 1 \quad \text{for every } j $$
 2. Final Output
    ![Output](images/output.png)
 
-## Installation
-
-Clone the repository:
-
-```sh
-git clone https://github.com/RishiSoni08/Capacitated_facility_location_Problem.git
-```
-## Usage
 
 1. **Prepare your location coordinates data in a dictionary format.**
 2. **Generate the JSON data file:**
@@ -93,10 +85,7 @@ git clone https://github.com/RishiSoni08/Capacitated_facility_location_Problem.g
 
 Contributions are welcome! Please create a pull request or open an issue to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please contact [rishi25soni@gmail.com].
+For any questions or suggestions, please contact [kapil.du.or.25@gmail.com].
