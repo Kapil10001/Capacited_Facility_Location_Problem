@@ -1,0 +1,376 @@
+{
+    "facility_data": {
+        "Mumbai": {
+            "latitude": 19.076,
+            "longitude": 72.8777,
+            "capacity": 5000,
+            "cost": 2000
+        },
+        "Delhi": {
+            "latitude": 28.7041,
+            "longitude": 77.1025,
+            "capacity": 4500,
+            "cost": 2200
+        },
+        "Bengaluru": {
+            "latitude": 12.9716,
+            "longitude": 77.5946,
+            "capacity": 4000,
+            "cost": 2100
+        },
+        "Hyderabad": {
+            "latitude": 17.385,
+            "longitude": 78.4867,
+            "capacity": 3500,
+            "cost": 2000
+        },
+        "Ahmedabad": {
+            "latitude": 23.0225,
+            "longitude": 72.5714,
+            "capacity": 3000,
+            "cost": 1900
+        },
+        "Chennai": {
+            "latitude": 13.0827,
+            "longitude": 80.2707,
+            "capacity": 4000,
+            "cost": 2100
+        },
+        "Kolkata": {
+            "latitude": 22.5726,
+            "longitude": 88.3639,
+            "capacity": 3500,
+            "cost": 2000
+        },
+        "Pune": {
+            "latitude": 18.5204,
+            "longitude": 73.8567,
+            "capacity": 3000,
+            "cost": 1900
+        },
+        "Jaipur": {
+            "latitude": 26.9124,
+            "longitude": 75.7873,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Lucknow": {
+            "latitude": 26.8467,
+            "longitude": 80.9462,
+            "capacity": 3000,
+            "cost": 1900
+        },
+        "Nagpur": {
+            "latitude": 21.1458,
+            "longitude": 79.0882,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Visakhapatnam": {
+            "latitude": 17.6868,
+            "longitude": 83.2185,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Bhopal": {
+            "latitude": 23.2599,
+            "longitude": 77.4126,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Patna": {
+            "latitude": 25.5941,
+            "longitude": 85.1376,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Ludhiana": {
+            "latitude": 30.901,
+            "longitude": 75.8573,
+            "capacity": 2000,
+            "cost": 1700
+        },
+        "Coimbatore": {
+            "latitude": 11.0168,
+            "longitude": 76.9558,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Jodhpur": {
+            "latitude": 26.2389,
+            "longitude": 73.0243,
+            "capacity": 2000,
+            "cost": 1700
+        },
+        "Raipur": {
+            "latitude": 21.2514,
+            "longitude": 81.6296,
+            "capacity": 2000,
+            "cost": 1700
+        },
+        "Guwahati": {
+            "latitude": 26.1445,
+            "longitude": 91.7362,
+            "capacity": 2500,
+            "cost": 1800
+        },
+        "Chandigarh": {
+            "latitude": 30.7333,
+            "longitude": 76.7794,
+            "capacity": 2000,
+            "cost": 1700
+        }
+    },
+    "demand_data": {
+        "Mumbai": {
+            "latitude": 19.076,
+            "longitude": 72.8777,
+            "demand": 500
+        },
+        "Delhi": {
+            "latitude": 28.7041,
+            "longitude": 77.1025,
+            "demand": 600
+        },
+        "Bengaluru": {
+            "latitude": 12.9716,
+            "longitude": 77.5946,
+            "demand": 450
+        },
+        "Hyderabad": {
+            "latitude": 17.385,
+            "longitude": 78.4867,
+            "demand": 400
+        },
+        "Ahmedabad": {
+            "latitude": 23.0225,
+            "longitude": 72.5714,
+            "demand": 300
+        },
+        "Chennai": {
+            "latitude": 13.0827,
+            "longitude": 80.2707,
+            "demand": 550
+        },
+        "Kolkata": {
+            "latitude": 22.5726,
+            "longitude": 88.3639,
+            "demand": 500
+        },
+        "Pune": {
+            "latitude": 18.5204,
+            "longitude": 73.8567,
+            "demand": 400
+        },
+        "Jaipur": {
+            "latitude": 26.9124,
+            "longitude": 75.7873,
+            "demand": 350
+        },
+        "Surat": {
+            "latitude": 21.1702,
+            "longitude": 72.8311,
+            "demand": 300
+        },
+        "Lucknow": {
+            "latitude": 26.8467,
+            "longitude": 80.9462,
+            "demand": 450
+        },
+        "Kanpur": {
+            "latitude": 26.4499,
+            "longitude": 80.3319,
+            "demand": 400
+        },
+        "Nagpur": {
+            "latitude": 21.1458,
+            "longitude": 79.0882,
+            "demand": 350
+        },
+        "Visakhapatnam": {
+            "latitude": 17.6868,
+            "longitude": 83.2185,
+            "demand": 400
+        },
+        "Bhopal": {
+            "latitude": 23.2599,
+            "longitude": 77.4126,
+            "demand": 300
+        },
+        "Patna": {
+            "latitude": 25.5941,
+            "longitude": 85.1376,
+            "demand": 350
+        },
+        "Ludhiana": {
+            "latitude": 30.901,
+            "longitude": 75.8573,
+            "demand": 300
+        },
+        "Agra": {
+            "latitude": 27.1767,
+            "longitude": 78.0081,
+            "demand": 250
+        },
+        "Nashik": {
+            "latitude": 19.9975,
+            "longitude": 73.7898,
+            "demand": 300
+        },
+        "Faridabad": {
+            "latitude": 28.4089,
+            "longitude": 77.3178,
+            "demand": 250
+        },
+        "Meerut": {
+            "latitude": 28.9845,
+            "longitude": 77.7064,
+            "demand": 200
+        },
+        "Rajkot": {
+            "latitude": 22.3039,
+            "longitude": 70.8022,
+            "demand": 250
+        },
+        "Varanasi": {
+            "latitude": 25.3176,
+            "longitude": 82.9739,
+            "demand": 300
+        },
+        "Srinagar": {
+            "latitude": 34.0837,
+            "longitude": 74.7973,
+            "demand": 200
+        },
+        "Aurangabad": {
+            "latitude": 19.8762,
+            "longitude": 75.3433,
+            "demand": 250
+        },
+        "Dhanbad": {
+            "latitude": 23.7957,
+            "longitude": 86.4304,
+            "demand": 200
+        },
+        "Amritsar": {
+            "latitude": 31.634,
+            "longitude": 74.8723,
+            "demand": 250
+        },
+        "Navi Mumbai": {
+            "latitude": 19.033,
+            "longitude": 73.0297,
+            "demand": 300
+        },
+        "Allahabad": {
+            "latitude": 25.4358,
+            "longitude": 81.8463,
+            "demand": 250
+        },
+        "Ranchi": {
+            "latitude": 23.3441,
+            "longitude": 85.3096,
+            "demand": 200
+        },
+        "Howrah": {
+            "latitude": 22.5958,
+            "longitude": 88.2636,
+            "demand": 250
+        },
+        "Coimbatore": {
+            "latitude": 11.0168,
+            "longitude": 76.9558,
+            "demand": 300
+        },
+        "Jabalpur": {
+            "latitude": 23.1815,
+            "longitude": 79.9864,
+            "demand": 200
+        },
+        "Gwalior": {
+            "latitude": 26.2183,
+            "longitude": 78.1828,
+            "demand": 250
+        },
+        "Vijayawada": {
+            "latitude": 16.5062,
+            "longitude": 80.648,
+            "demand": 300
+        },
+        "Jodhpur": {
+            "latitude": 26.2389,
+            "longitude": 73.0243,
+            "demand": 250
+        },
+        "Madurai": {
+            "latitude": 9.9252,
+            "longitude": 78.1198,
+            "demand": 200
+        },
+        "Raipur": {
+            "latitude": 21.2514,
+            "longitude": 81.6296,
+            "demand": 250
+        },
+        "Kota": {
+            "latitude": 25.2138,
+            "longitude": 75.8648,
+            "demand": 200
+        },
+        "Guwahati": {
+            "latitude": 26.1445,
+            "longitude": 91.7362,
+            "demand": 300
+        },
+        "Chandigarh": {
+            "latitude": 30.7333,
+            "longitude": 76.7794,
+            "demand": 250
+        },
+        "Solapur": {
+            "latitude": 17.6599,
+            "longitude": 75.9064,
+            "demand": 200
+        },
+        "Hubli": {
+            "latitude": 15.3647,
+            "longitude": 75.1239,
+            "demand": 250
+        },
+        "Mysore": {
+            "latitude": 12.2958,
+            "longitude": 76.6394,
+            "demand": 300
+        },
+        "Tiruchirappalli": {
+            "latitude": 10.7905,
+            "longitude": 78.7047,
+            "demand": 250
+        },
+        "Bareilly": {
+            "latitude": 28.367,
+            "longitude": 79.4304,
+            "demand": 200
+        },
+        "Aligarh": {
+            "latitude": 27.8974,
+            "longitude": 78.088,
+            "demand": 250
+        },
+        "Moradabad": {
+            "latitude": 28.8386,
+            "longitude": 78.7733,
+            "demand": 200
+        },
+        "Gurgaon": {
+            "latitude": 28.4595,
+            "longitude": 77.0266,
+            "demand": 300
+        },
+        "Jalandhar": {
+            "latitude": 31.326,
+            "longitude": 75.5762,
+            "demand": 250
+        }
+    }
+}
